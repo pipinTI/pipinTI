@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pipinTI
 - 👀 I’m interested in Web Develop
-- 🌱 I’m currently learning React.js
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
